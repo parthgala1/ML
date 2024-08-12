@@ -1,4 +1,4 @@
-## Experiment 1
+## Practice
 
 > Re-learning all that was covered till 2nd Year.
 
